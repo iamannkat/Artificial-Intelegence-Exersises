@@ -1,5 +1,6 @@
-# Artificial-Intelegence-Exersises
+# Artificial-Intelegence-Games
 First Dabble in A.I.
+Here is the implementation of the game SOS and the Game Spheres. The players are the user and the computer.
 
 The first part - sphere a
 Σχετικά με την πρώτη εργαστηριακή άσκηση, προκειμένου να κατασκευάσουμε το πρόγραμμα αναζήτησης για την επίλυση του ζητούμενου προβλήματος σφαιρών, έχουμε 
